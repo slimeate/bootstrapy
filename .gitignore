@@ -2,6 +2,8 @@
 *.pyo
 *.swp
 *~
+\#*
+\.\#*
 
 # Packages
 *.egg
@@ -32,3 +34,5 @@ docs/_build
 # Virtual environments
 env
 env*
+venv
+venv*
